@@ -27,7 +27,7 @@ DevOps:          Jenkins | Docker | CI/CD | Makefile | Linux
 API Tech:        REST | GraphQL | Swagger
 Methodologies:   Agile | TDD | BDD | Microservices Architecture
 ```
-
+<!--
 ## 🚀 Featured Projects
 
 *Coming soon! I'll be sharing some of my personal projects and contributions here.*
@@ -46,7 +46,7 @@ Methodologies:   Agile | TDD | BDD | Microservices Architecture
 
 - LinkedIn: [Austin Rodrigues](https://linkedin.com/in/austin-rodrigues-06717388)
 - Email: austin.peter.rodrigues@gmail.com
-
+-->
 ---
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
